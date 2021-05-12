@@ -1,0 +1,7 @@
+  {
+
+"token11":"ODM3NDkwOTcyMDg1OTc3MTU5.YItUPw.WBve6CAAJbMxenfBmeyt6PpzeiM",
+"prefix":"/",
+"genchannel":"bot",
+"chatchannel":"general"
+}
